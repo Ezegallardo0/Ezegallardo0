@@ -1,7 +1,7 @@
 # 👨‍💻 Ezequiel Gallardo | Full Stack Developer
 
 📚 Estudiante de Licenciatura en Informática | Universidad Nacional del Oeste  
-📧 eze.gallardo.dev@gmail.com
+📧 ezequieljoelgallardo@gmail.com
 
 ---
 
@@ -16,9 +16,8 @@ Me estoy formando en la **Licenciatura en Informática** en la **UNO**, y ya ten
 - **Lenguajes:** JavaScript, C (básico)  
 - **Frontend:** React, HTML5, CSS3  
 - **Backend:** Node.js, Express.js  
-- **Bases de Datos:** MongoDB, PostgreSQL  
-- **Herramientas:** Git, GitHub, Visual Studio Code, Postman  
-- **Metodologías:** Agile (Scrum)  
+- **Bases de Datos:** MongoDB, \ 
+- **Herramientas:** Git, GitHub, Visual Studio Code, Postman   
 
 ---
 
