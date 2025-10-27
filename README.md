@@ -1,6 +1,6 @@
 # 👨‍💻 Ezequiel Gallardo | Full Stack Developer
 
-📚 Estudiante de Licenciatura en Informática | Universidad Nacional del Oeste  
+📚 Estudiante de Licenciatura en Informática - Tecnicatura en Tecnologias Web| Universidad Nacional del Oeste  
 📧 ezequieljoelgallardo@gmail.com
 
 ---
