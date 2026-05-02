@@ -1,4 +1,4 @@
-# 👨‍💻 Ezequiel Gallardo | Full Stack Developer
+# 👨‍💻 Joel Ezequiel Gallardo | Full Stack Developer
 
 📚 Estudiante de Licenciatura en Informática - Tecnicatura en Tecnologias Web| Universidad Nacional del Oeste  
 📧 ezequieljoelgallardo@gmail.com
