@@ -13,10 +13,10 @@ Me estoy formando en la **Licenciatura en Informática** en la **UNO**, y ya ten
 
 ## 🔧 Tecnologías y Herramientas
 
-- **Lenguajes:** JavaScript, C (básico)  
+- **Lenguajes:** JavaScript, C, Python
 - **Frontend:** React, HTML5, CSS3  
 - **Backend:** Node.js, Express.js  
-- **Bases de Datos:** MongoDB 
+- **Bases de Datos:** MongoDB, MySQL
 - **Herramientas:** Git, GitHub, Visual Studio Code, Postman   
 
 ---
