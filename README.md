@@ -26,14 +26,11 @@ Me interesa crear soluciones eficientes, combinando una sólida lógica de negoc
 
 <div align="center">
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite" />
+### Lenguajes & Frontend
+<img src="https://skillicons.dev/icons?i=c,python,java,js,html,css,react" />
 
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mongodb,mysql,postgresql" />
-
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+### Bases de Datos & Herramientas
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,spring,git,github,vscode" />
 
 </div>
 
