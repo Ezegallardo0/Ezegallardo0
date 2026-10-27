@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola, soy Ezequiel! 👋
+# ¡Hola, soy Joel Ezequiel! 👋
 
 ### 💻 Estudiante de Licenciatura en Informática · Desarrollador Back-End & Full-Stack
 
