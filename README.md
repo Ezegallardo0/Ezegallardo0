@@ -4,7 +4,7 @@
 
 ### 💻 Estudiante de Licenciatura en Informática · Desarrollador Full-Stack
 
-Construyendo software robusto, escalable y aprendiendo algo nuevo todos los días.
+Construyendo software robusto, escalable, APIs con Node.js y Express.js, y bases de datos eficientes.
 
 🇦🇷 Argentina
 
@@ -17,8 +17,8 @@ Construyendo software robusto, escalable y aprendiendo algo nuevo todos los día
 
 ## 👨‍💻 Sobre mí
 
-Soy estudiante de la **Licenciatura en Informática** y desarrollador apasionado por la programacion y las aplicaciones web. 
-Me interesa crear soluciones eficientes, combinando una sólida lógica de negocio, arquitectura limpia, bases de datos y buenas prácticas de ingeniería de software.
+Soy estudiante de la **Licenciatura en Informática** y desarrollador Full-Stack apasionado por la programación y las aplicaciones web. 
+Me interesa crear soluciones eficientes, combinando una sólida lógica de negocio con Node.js, Express.js, bases de datos y buenas prácticas de ingeniería de software.
 
 ---
 
@@ -30,7 +30,7 @@ Me interesa crear soluciones eficientes, combinando una sólida lógica de negoc
 <img src="https://skillicons.dev/icons?i=c,python,java,js,html,css,react" />
 
 ### Bases de Datos & Herramientas
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,spring,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,spring,nodejs,express,git,github,vscode,postman" />
 
 </div>
 
