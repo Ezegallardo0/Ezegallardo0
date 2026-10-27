@@ -39,7 +39,7 @@ Me interesa crear soluciones eficientes, combinando una sólida lógica de negoc
 ## 🚀 Proyectos destacados
 
 - 🛠️ [Fenixia](https://github.com/Ezegallardo0/fenixia) — Aplicación web backend orientada al diseño visual (Proyecto de ingeniería de software).
-- 🎮 **UnchartedWiki** — Guía y enciclopedia interactiva inspirada en la saga Uncharted.
+- 🎮 [UnchartedWiki](https://ezegallardo0.github.io/uncharted_wiki/) — Guía y enciclopedia interactiva inspirada en la saga Uncharted.
 - ⚙️ **Sistema de Gestión IT** — Solución de soporte técnico orientada a pymes y servicios de campo.
 - 📁 [PortFolio](https://github.com/Ezegallardo0/PortFolio) — Repositorio de proyectos personales y desarrollo web.
 
