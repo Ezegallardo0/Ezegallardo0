@@ -8,7 +8,7 @@ Construyendo software robusto, escalable, APIs con Node.js y Express.js, y bases
 
 🇦🇷 Argentina
 
-[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-7258E6?style=for-the-badge&logo=About.me&logoColor=white)](https://ezegallardo0.github.io/) 
+[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-7258E6?style=for-the-badge&logo=About.me&logoColor=white)]([https://ezegallardo0.github.io/](https://ezegallardo0.github.io/PortFolio/)) 
 [![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ezegallardo0)
 
 </div>
