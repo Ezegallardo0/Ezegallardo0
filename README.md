@@ -1,49 +1,57 @@
-## 👋 Hola, soy Joel Ezequiel Gallardo
+<div align="center">
+
+# ¡Hola, soy Ezequiel! 👋
 
 ### 💻 Estudiante de Licenciatura en Informática · Desarrollador Back-End & Full-Stack
 
-*Construyendo software robusto, escalable y aprendiendo algo nuevo todos los días.*
+Construyendo software robusto, escalable y aprendiendo algo nuevo todos los días.
+
 🇦🇷 Argentina
+
+[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-7258E6?style=for-the-badge&logo=About.me&logoColor=white)](https://ezegallardo0.github.io/) 
+[![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ezegallardo0)
+
+</div>
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 👨‍💻 Sobre mí
 
-Soy estudiante de la **Licenciatura en Informática** y desarrollador apasionado por el desarrollo back-end y las aplicaciones web.
+Soy estudiante de la **Licenciatura en Informática** y desarrollador apasionado por el back-end y las aplicaciones web. 
 Me interesa crear soluciones eficientes, combinando una sólida lógica de negocio, arquitectura limpia, bases de datos y buenas prácticas de ingeniería de software.
 
 ---
 
 ## ⚡ Tech Stack
 
-* **Lenguajes:** Java, JavaScript / TypeScript
-* **Back-End:** Spring Boot, Programación Orientada a Objetos (POO)
-* **Bases de Datos:** SQL, Gestión y diseño relacional
-* **Herramientas & Entornos:** Git, GitHub, Entornos de desarrollo modernos
+<div align="center">
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite" />
+
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mongodb,mysql,postgresql" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
 
 ---
 
 ## 🚀 Proyectos destacados
 
-- 🛠️ **Fenixia** — Aplicación web backend orientada al diseño visual (Proyecto de ingeniería de software).
+- 🛠️ [Fenixia](https://github.com/Ezegallardo0/fenixia) — Aplicación web backend orientada al diseño visual (Proyecto de ingeniería de software).
 - ⚙️ **Sistema de Gestión IT** — Solución de soporte técnico orientada a pymes y servicios de campo.
+- 📁 [PortFolio](https://github.com/Ezegallardo0/PortFolio) — Repositorio de proyectos personales y desarrollo web.
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)](https://github.com/TU_USUARIO)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)](https://github.com/TU_USUARIO)
+### 📊 Estadísticas de GitHub
 
----
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ezegallardo0&show_icons=true&theme=radical)](https://github.com/Ezegallardo0)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezegallardo0&layout=compact&theme=radical)](https://github.com/Ezegallardo0)
 
-## 🎯 Actualmente
-
-- 📚 **Académico**
-  └── Avanzando en materias clave de la Licenciatura en Informática.
-
-- ☕ **Desarrollo**
-  └── Perfeccionando el ecosistema Java / Spring Boot y bases de datos.
-
-- 🚀 **Próximo objetivo**
-  └── Consolidar proyectos de software reales y seguir sumando experiencia técnica.
+</div>
