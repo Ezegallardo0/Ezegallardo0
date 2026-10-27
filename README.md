@@ -2,7 +2,7 @@
 
 # ¡Hola, soy Joel Ezequiel! 👋
 
-### 💻 Estudiante de Licenciatura en Informática · Desarrollador Back-End & Full-Stack
+### 💻 Estudiante de Licenciatura en Informática · Desarrollador Full-Stack
 
 Construyendo software robusto, escalable y aprendiendo algo nuevo todos los días.
 
@@ -17,7 +17,7 @@ Construyendo software robusto, escalable y aprendiendo algo nuevo todos los día
 
 ## 👨‍💻 Sobre mí
 
-Soy estudiante de la **Licenciatura en Informática** y desarrollador apasionado por el back-end y las aplicaciones web. 
+Soy estudiante de la **Licenciatura en Informática** y desarrollador apasionado por la programacion y las aplicaciones web. 
 Me interesa crear soluciones eficientes, combinando una sólida lógica de negocio, arquitectura limpia, bases de datos y buenas prácticas de ingeniería de software.
 
 ---
